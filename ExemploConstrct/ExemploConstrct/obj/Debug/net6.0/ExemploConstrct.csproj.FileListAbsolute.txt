@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\bin\Debug\net6.0\ExemploConstrct.exe
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\bin\Debug\net6.0\ExemploConstrct.deps.json
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\bin\Debug\net6.0\ExemploConstrct.runtimeconfig.json
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\bin\Debug\net6.0\ExemploConstrct.dll
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\bin\Debug\net6.0\ExemploConstrct.pdb
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\obj\Debug\net6.0\ExemploConstrct.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\obj\Debug\net6.0\ExemploConstrct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\obj\Debug\net6.0\ExemploConstrct.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\obj\Debug\net6.0\ExemploConstrct.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\obj\Debug\net6.0\ExemploConstrct.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\obj\Debug\net6.0\ExemploConstrct.dll
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\obj\Debug\net6.0\refint\ExemploConstrct.dll
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\obj\Debug\net6.0\ExemploConstrct.pdb
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\obj\Debug\net6.0\ExemploConstrct.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\ExemploConstrct\ExemploConstrct\obj\Debug\net6.0\ref\ExemploConstrct.dll

@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\bin\Debug\net6.0\Exercico2.exe
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\bin\Debug\net6.0\Exercico2.deps.json
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\bin\Debug\net6.0\Exercico2.runtimeconfig.json
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\bin\Debug\net6.0\Exercico2.dll
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\bin\Debug\net6.0\Exercico2.pdb
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\obj\Debug\net6.0\Exercico2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\obj\Debug\net6.0\Exercico2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\obj\Debug\net6.0\Exercico2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\obj\Debug\net6.0\Exercico2.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\obj\Debug\net6.0\Exercico2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\obj\Debug\net6.0\Exercico2.dll
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\obj\Debug\net6.0\refint\Exercico2.dll
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\obj\Debug\net6.0\Exercico2.pdb
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\obj\Debug\net6.0\Exercico2.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Exercico2\Exercico2\obj\Debug\net6.0\ref\Exercico2.dll
