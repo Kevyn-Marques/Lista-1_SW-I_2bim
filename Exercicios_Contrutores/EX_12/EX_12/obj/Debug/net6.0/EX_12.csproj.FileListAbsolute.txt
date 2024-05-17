@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\EX_12\EX_12\bin\Debug\net6.0\EX_12.exe
+C:\Users\Aluno\Downloads\EX_12\EX_12\bin\Debug\net6.0\EX_12.deps.json
+C:\Users\Aluno\Downloads\EX_12\EX_12\bin\Debug\net6.0\EX_12.runtimeconfig.json
+C:\Users\Aluno\Downloads\EX_12\EX_12\bin\Debug\net6.0\EX_12.dll
+C:\Users\Aluno\Downloads\EX_12\EX_12\bin\Debug\net6.0\EX_12.pdb
+C:\Users\Aluno\Downloads\EX_12\EX_12\obj\Debug\net6.0\EX_12.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\EX_12\EX_12\obj\Debug\net6.0\EX_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\EX_12\EX_12\obj\Debug\net6.0\EX_12.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\EX_12\EX_12\obj\Debug\net6.0\EX_12.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\EX_12\EX_12\obj\Debug\net6.0\EX_12.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\EX_12\EX_12\obj\Debug\net6.0\EX_12.dll
+C:\Users\Aluno\Downloads\EX_12\EX_12\obj\Debug\net6.0\refint\EX_12.dll
+C:\Users\Aluno\Downloads\EX_12\EX_12\obj\Debug\net6.0\EX_12.pdb
+C:\Users\Aluno\Downloads\EX_12\EX_12\obj\Debug\net6.0\EX_12.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\EX_12\EX_12\obj\Debug\net6.0\ref\EX_12.dll
