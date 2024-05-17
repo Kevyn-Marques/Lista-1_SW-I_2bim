@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\obj\Debug\net6.0\ProdutoFabricante.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\obj\Debug\net6.0\ProdutoFabricante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\obj\Debug\net6.0\ProdutoFabricante.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\obj\Debug\net6.0\ProdutoFabricante.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\obj\Debug\net6.0\ProdutoFabricante.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\bin\Debug\net6.0\ProdutoFabricante.exe
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\bin\Debug\net6.0\ProdutoFabricante.deps.json
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\bin\Debug\net6.0\ProdutoFabricante.runtimeconfig.json
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\bin\Debug\net6.0\ProdutoFabricante.dll
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\bin\Debug\net6.0\ProdutoFabricante.pdb
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\obj\Debug\net6.0\ProdutoFabricante.dll
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\obj\Debug\net6.0\refint\ProdutoFabricante.dll
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\obj\Debug\net6.0\ProdutoFabricante.pdb
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\obj\Debug\net6.0\ProdutoFabricante.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\ProdutoFabricante\ProdutoFabricante\obj\Debug\net6.0\ref\ProdutoFabricante.dll
