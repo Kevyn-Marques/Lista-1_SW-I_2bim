@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\EX_09\EX_09\bin\Debug\net6.0\EX_09.exe
+C:\Users\Aluno\Downloads\EX_09\EX_09\bin\Debug\net6.0\EX_09.deps.json
+C:\Users\Aluno\Downloads\EX_09\EX_09\bin\Debug\net6.0\EX_09.runtimeconfig.json
+C:\Users\Aluno\Downloads\EX_09\EX_09\bin\Debug\net6.0\EX_09.dll
+C:\Users\Aluno\Downloads\EX_09\EX_09\bin\Debug\net6.0\EX_09.pdb
+C:\Users\Aluno\Downloads\EX_09\EX_09\obj\Debug\net6.0\EX_09.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\EX_09\EX_09\obj\Debug\net6.0\EX_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\EX_09\EX_09\obj\Debug\net6.0\EX_09.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\EX_09\EX_09\obj\Debug\net6.0\EX_09.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\EX_09\EX_09\obj\Debug\net6.0\EX_09.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\EX_09\EX_09\obj\Debug\net6.0\EX_09.dll
+C:\Users\Aluno\Downloads\EX_09\EX_09\obj\Debug\net6.0\refint\EX_09.dll
+C:\Users\Aluno\Downloads\EX_09\EX_09\obj\Debug\net6.0\EX_09.pdb
+C:\Users\Aluno\Downloads\EX_09\EX_09\obj\Debug\net6.0\EX_09.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\EX_09\EX_09\obj\Debug\net6.0\ref\EX_09.dll
